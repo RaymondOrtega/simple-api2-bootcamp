@@ -4,11 +4,11 @@
 
 ### Preview:
 
-![alt tag](Money.png)
+![alt tag](preview.png)
 
 ### lessons learned:
 
 ```
-In this Project I learned, when I create my own API I will Be more explicit on the limitations of my API's and provide a better example of its usage. This seems to be a tend on allot of created API's.
+In this Project I learned, when I create my own API I will Be more explicit on the limitations of my API's and provide a better example of its usage. This seems to be a trend on allot of created API's.
 
 ```
